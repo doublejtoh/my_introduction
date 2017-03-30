@@ -1,0 +1,63 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+
+html{
+    
+    font-family: "Nanum Gothic", sans-serif;
+}
+
+.parallax { 
+    /* The image used */
+    background-image: url("http://cfile26.uf.tistory.com/image/214D6744554E2A8D355A92");
+    background-size: 1330px,500px;
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.sun{
+      /* The image used */
+    
+    background-image: url("/HanRiver.JPG");
+    background-size: 700px, 500px;
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    );
+
+    
+}
+.cat{
+      /* The image used */
+    
+    background-image: url("/cat.jpg");
+    background-size: 700px, 500px;
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    );
+
+    
+}
+
+
+
+#squrrel{
+    
+    
+}
+

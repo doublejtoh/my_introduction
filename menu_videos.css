@@ -1,0 +1,41 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+
+html{
+    
+    font-family: "Nanum Gothic", sans-serif;
+}
+
+
+.mp4_1{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.mp4_2{
+    
+    margin-bottom: 70px;
+}
+
+.music_videos{
+    
+    border: 1px solid;
+    border-color: green;
+}
+
+.game_videos{
+    margin-top: 150px;
+     border: 1px solid;
+    border-color: green;
+}
+
+.mp4_3{
+     margin-top: 150px;
+    margin-bottom: 150px;
+    
+}
+
+.mp4_4{
+    margin-bottom: 70px;
+    
+}

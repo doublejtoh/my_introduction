@@ -1,0 +1,85 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+
+html{
+    
+    font-family: "Nanum Gothic", sans-serif;
+}
+
+.dwells{
+    font-size: 40px;
+    padding-left: 100px;
+    border: 1px solid;
+    border-color: green;
+    
+    
+    
+}
+
+.highschool{
+     width: 500px;
+  margin-left: 40px;
+  margin-top: 40px;
+  padding: 50px;
+  border: solid blue 10px;
+  
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+          display: inline-block;
+    
+    
+}
+
+.family{
+         width: 500px;
+  margin-left: 40px;
+  
+  padding: 50px;
+  border: solid blue 10px;
+  border-width: cover;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+          display: inline-block;
+
+    
+}
+#dongas{
+    width: 800px;
+    height: 800px;
+}
+
+#jokbal{
+    
+    margin-top: 100px;
+}
+
+#jokbal_reserve{
+    
+    font-size: 20px;
+    
+}
+
+#imageofhighschool{
+    float: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+#descriptionOfhighschool{
+    margin-top: 50px;
+    float: right;
+    
+    
+}
+
+
+#family{
+    
+    border: 1px solid;
+    border-color: green;
+    
+    margin-top: 100px;
+}
